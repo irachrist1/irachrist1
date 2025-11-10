@@ -6,49 +6,46 @@
 <p align="left"> <a href="https://twitter.com/irachrist01" target="blank"><img src="https://img.shields.io/twitter/follow/irachrist01?logo=twitter&style=for-the-badge" alt="irachrist01" /></a> </p>
 
 ## About Me
+I've long been fascinated by how AI can be used to solve real business problems by changing how you use tools and which strategies and frameworks you adopt.
+That's what I'm trying to do at Andersen in Rwanda, where I'm building out our AI Advisory practice. We help companies figure out if they're ready for AI, then build the actual frameworks and tools to help them get there faster - everything from automating research to creating market intelligence systems.
 
-I'm a 20-year-old Software Engineering student at African Leadership University, building the AI Advisory practice at **Andersen Rwanda**. I help businesses figure out if they're ready for AI, then build the frameworks and tools they need - from automating research to creating market intelligence systems.
+In my free time, I'm trying to solve the education problem around how schools, mentors and students approach mentoring. Career choice is something that every student and graduate faces and many wonder how do I choose a career that is both fulfilling and societally transformational that will truly make an impact in my lifetime and I think it's something worth spending time on to try and help students make such choices.
 
-As co-founder of **SPCS Tech Solutions**, I'm working on offline-capable educational platforms for rural students in Sub-Saharan Africa. Exam failure rates in rural areas are significantly higher than in cities, and I'm trying to change that through accessible technology.
+Other than that, I like podcasts and listen to at least 1.5 audiobooks per week.
 
 - 🔭 Currently working on **AI Advisory Services at Andersen Rwanda**
 - 🤖 Building **AI agents for legal research, document generation, and business intelligence**
-- 🌱 Focused on **AI implementation, automation, and enterprise solutions**
-- 🎓 Passionate about **educational access in rural Africa**
-- 📚 Reading **~1.5 audiobooks per week** (mostly founder stories and business strategy)
-- 🎧 Regular listener of **Acquired, Founders, and tech podcasts**
+- 🌱 Focused on **AI implementation, Gen-AI automation, and software development**
+- 🎧 Regular listener of **Audiobooks and Acquired, Founders Podcasts**
 - 👨‍💻 Portfolio: [christian.tech](https://christian-tonny.vercel.app/)
 - 📫 Reach me: **info@spcstech.com**
 
 ## What I'm Working On
 
 **At Andersen Rwanda:**
-- AI readiness assessments and business process audits
-- Deploying AI agents across Zapier and Microsoft Copilot Studio
-- Building automation tools for tax research, compliance, and market analysis
+- AI Implementation for businesses and Technology advisory
+- Internal development of AI agents 
+- Building automation tools for faster citable research, compliance, and market analysis
 - ERP management with Odoo and Microsoft 365 administration
 
 **Personal Projects:**
-- Spark Learning Platform - Offline educational content for rural students
+- Spark - Career mentoring tools to help students make better career choices
 - Rwanda's first AI-powered government intelligence platform (NISR Hackathon)
-- Career mentoring tools to help students make better career choices
 
 ## Tech Stack & Tools
 
 **AI & Automation:**
 - Microsoft Copilot Studio, Power Automate
-- Zapier, Make.com
+- n8n, Zapier, Make.com
 - Claude API, Azure AI, OpenAI
 - Vectara RAG, NotebookLM
 
 **Development:**
-- JavaScript, React, Python
+- Next.JS, JavaScript, React, Tailwind, Convex, Python
 - Odoo ERP
-- Git, GitHub
-- HTML, CSS, Tailwind
 
 **Design & Content:**
-- Figma, Adobe Suite
+- Figma, Adobe (PS, Illustrator) 
 - Content strategy and digital marketing
 
 <h3 align="left">Connect with me:</h3>
