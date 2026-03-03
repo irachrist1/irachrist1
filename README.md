@@ -11,7 +11,7 @@ Building web, and mobile tools I find userful.
 - [bz-intelligence](https://github.com/irachrist1/bz-intelligence) - business intelligence for SMEs and SMBs in Rwanda.
 - [portfolio](https://github.com/irachrist1/portfolio) - portfolio site.
 
-## School Projects (Learning Software Engineering)
+## School Projects 
 
 These are coursework projects tied to machine learning, ALU assignments, and mobile development:
 
