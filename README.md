@@ -5,11 +5,19 @@ Building in Rwanda and shipping things that are useful.
 
 ## Current Projects
 
-- [BZ Intelligence](https://github.com/irachrist1/bz-intelligence) — AI-powered business intelligence platform for the Rwanda tech ecosystem. Structured data on 131+ companies, 224+ candidates, and the broader market, with a Claude-powered query layer on top.
-- [SkillSync](https://github.com/irachrist1/SkillSync) — Career matching platform using RIASEC assessment and skill-to-opportunity mapping. Built for the Rwanda jobs market.
-- [ProblemHunt](https://github.com/irachrist1/ProblemHunt) — Platform for surfacing and validating real-world problems. Think ProductHunt but for problems, not products.
-- [sync-blogs](https://github.com/irachrist1/sync-blogs) — AI-assisted content workflow. Cross-platform syndication with an AI layer that writes in your voice.
-- [tidytabs](https://github.com/irachrist1/tidytabs) — Chrome extension that groups and tidies browser tabs using LLMs. Supports multiple providers.
+- [mnotes](https://github.com/irachrist1/mnotes) - personal AI agent to handle everything else so i can focus on thinking. 
+- [ProblemHunt](https://github.com/irachrist1/ProblemHunt) - platform for surfacing and validating real-world problems think ProductHunt but for problems instead of apps.
+- [sync-blogs](https://github.com/irachrist1/sync-blogs) - AI-assisted blogging workflow. auto-update past articles, AI that writes as you think.
+- [bz-intelligence](https://github.com/irachrist1/bz-intelligence) - business intelligence for SMEs and SMBs in Rwanda.
+- [portfolio](https://github.com/irachrist1/portfolio) - portfolio site.
+
+## School Projects 
+
+These are coursework projects tied to machine learning, ALU assignments, and mobile development:
+
+- [Mathematics-for-Machine-Learning-PCA_Formative](https://github.com/irachrist1/Mathematics-for-Machine-Learning-PCA_Formative)
+- [alu-machine_learning](https://github.com/irachrist1/alu-machine_learning)
+- [eatnotes](https://github.com/irachrist1/eatnotes)
 
 ## Links
 
