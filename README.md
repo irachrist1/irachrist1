@@ -1,18 +1,17 @@
 # Christian Tonny
 
-Software engineer focused on AI-native products and developer tools.
-Building in Rwanda and shipping things that are useful.
+Software engineer building AI-native products and developer tools in Rwanda — local-first memory, Claude skills, and tools people actually star.
 
-## Current Projects
+## What I'm building now
 
-- [BZ Intelligence](https://github.com/irachrist1/bz-intelligence) — AI-powered business intelligence platform for the Rwanda tech ecosystem. Structured data on 131+ companies, 224+ candidates, and the broader market, with a Claude-powered query layer on top.
-- [SkillSync](https://github.com/irachrist1/SkillSync) — Career matching platform using RIASEC assessment and skill-to-opportunity mapping. Built for the Rwanda jobs market.
-- [ProblemHunt](https://github.com/irachrist1/ProblemHunt) — Platform for surfacing and validating real-world problems. Think ProductHunt but for problems, not products.
-- [sync-blogs](https://github.com/irachrist1/sync-blogs) — AI-assisted content workflow. Cross-platform syndication with an AI layer that writes in your voice.
-- [tidytabs](https://github.com/irachrist1/tidytabs) — Chrome extension that groups and tidies browser tabs using LLMs. Supports multiple providers.
+- **[Daylens](https://github.com/irachrist1/daylens)** — Local-first activity timeline you can ask questions about (or plug into Cursor via [daylens-mcp](https://github.com/irachrist1/daylens-mcp))
+- **[TARS](https://github.com/irachrist1/tars)** — Chief of Staff skill for Claude + Microsoft 365 — reads your files, drafts from precedent
+- **[claude-code-workflow-os](https://github.com/irachrist1/claude-code-workflow-os)** — Claude Code plugins for project memory, handoffs, and ship checks
+- **[tidytabs](https://github.com/irachrist1/tidytabs)** — One-click Chrome tab grouping with optional AI
+- **[ProblemHunt](https://github.com/irachrist1/ProblemHunt)** — Validate startup problems before anyone builds
+- **[SkillSync](https://github.com/irachrist1/SkillSync)** — Skills-to-jobs matching for Rwanda
+- **[portfolio](https://github.com/irachrist1/portfolio)** → [christian-tonny.dev](https://christian-tonny.dev)
 
 ## Links
 
-- Portfolio: [christian-tonny.dev](https://christian-tonny.dev/)
-- LinkedIn: [linkedin.com/in/irachrist1](https://linkedin.com/in/irachrist1)
-- Email: mail@christian-tonny.dev
+[Portfolio](https://christian-tonny.dev) · [LinkedIn](https://linkedin.com/in/irachrist1) · mail@christian-tonny.dev
