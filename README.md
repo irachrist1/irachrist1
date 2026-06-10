@@ -11,6 +11,7 @@ Software engineer in Rwanda — building local-first AI tools, Claude skills, an
 | [**TARS**](https://github.com/irachrist1/tars) | Chief of Staff skill for Claude + Microsoft 365 — reads your files, drafts from precedent |
 | [**claude-code-workflow-os**](https://github.com/irachrist1/claude-code-workflow-os) | Claude Code plugins for project memory, handoffs, and ship checks |
 | [**tidytabs**](https://github.com/irachrist1/tidytabs) | One-click Chrome tab grouping — preview before you apply |
+| [**eatnotes**](https://github.com/irachrist1/eatnotes) | Type what you ate — instant calories and macros via AI |
 | [**homebrew-daylens**](https://github.com/irachrist1/homebrew-daylens) | `brew install --cask daylens` — official macOS tap |
 
 ## Elsewhere
